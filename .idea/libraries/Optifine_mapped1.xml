@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Optifine-mapped1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.optifine/OptiFine_1.19.2_HD_U_I1/Optifine-mapped.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

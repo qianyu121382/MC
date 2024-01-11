@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="mods">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mods/[自然罗盘／生物群系指南针] NaturesCompass-1.20-2.2.2-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/[Xaero的世界地图] XaerosWorldMap_1.30.6_Fabric_1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/[连锁挖掘] diggusmaximus-1.5.9-1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/[经验机制改革] Clumps-fabric-1.20-11.0.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/[自动汉化更新] I18nUpdateMod-3.5.0-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/fabric-api-0.83.0+1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/[Xaero的小地图] Xaeros_Minimap_23.5.0_Fabric_1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/[JEI物品管理器] jei-1.20-fabric-14.0.0.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1.20-46.0.14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/net/minecraftforge/forge/1.20-46.0.14/forge-1.20-46.0.14-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/net/minecraftforge/forge/1.20-46.0.14/forge-1.20-46.0.14-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

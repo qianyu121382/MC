@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="1.19.3-20221207.122022">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-slim.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-srg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-extra.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

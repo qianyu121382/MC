@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OptiFine-1.20_HD_U_I5_pre5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/optifine/OptiFine/1.20_HD_U_I5_pre5/OptiFine-1.20_HD_U_I5_pre5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

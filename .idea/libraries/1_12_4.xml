@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1.12.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/com/mojang/text2speech/1.12.4/text2speech-1.12.4-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/com/mojang/text2speech/1.12.4/text2speech-1.12.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

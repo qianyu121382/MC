@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="shaderpacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shaderpacks/SEUS_PTGI_E12.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/[高品质光影]BSL v7.1p5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/[高品质光影]SEUS-Renewed-v1.0.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/iterationT Next 1.1.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/[高品质光影]JMSEUS FCM 光影 （v4.12.27 p2）.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/[高品质光影]Continuum-§91.3-§f§2Low§f-§4Ultra.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/[高品质光影]§bSEUS §cv11.0 §dFCM §eV4.7 §2Last Preview §6汉化.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/SEUS-Renewed-v1.0.1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

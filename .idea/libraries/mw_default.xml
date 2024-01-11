@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mw$default">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/XaeroWorldMap/Multiplayer_172.27.198.238/null/mw$default/0_-1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/XaeroWorldMap/Multiplayer_172.27.198.238/null/mw$default/-1_0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/XaeroWorldMap/Multiplayer_172.27.198.238/null/mw$default/0_0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/XaeroWorldMap/Multiplayer_172.27.198.238/null/mw$default/-1_-1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
